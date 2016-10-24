@@ -1,0 +1,3 @@
+au\gov\nla\repository\BookRepositoryTest.class
+au\gov\nla\test\config\SpringRootConfig.class
+au\gov\nla\repository\MemberRepositoryTest.class

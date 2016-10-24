@@ -1,0 +1,6 @@
+.navbar-default .navbar-header .navbar-toggle { margin-top: 7px; margin-bottom: 6px; font-size: 12px; text-transform: uppercase; font-family: 'PT Sans Caption', Helvetica, Arial, sans-serif; font-weight: 700; }
+.navbar-default .navbar-header .navbar-toggle i { margin-right: 2px; font-size: 10px; }
+.navbar-default .navbar-header .navbar-brand { font-family: 'PT Sans Caption', Helvetica, Arial, sans-serif; font-weight: 700; }
+.navbar-default .navbar-right li a:focus { outline: none; }
+.navbar-default .navbar-collapse li a {font-size:18px;}
+.navbar-default .navbar-collapse .nav {margin-top:3px;}
